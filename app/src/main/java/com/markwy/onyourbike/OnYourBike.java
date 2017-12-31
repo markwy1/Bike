@@ -4,6 +4,7 @@ import android.app.Application;
 
 /**
  * Created by dryon on 2017/12/31.
+ * just for single instance of application.
  */
 
 public class OnYourBike extends Application {

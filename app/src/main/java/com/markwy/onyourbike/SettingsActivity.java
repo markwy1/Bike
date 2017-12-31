@@ -10,7 +10,7 @@ public class SettingsActivity extends Activity {
     private static String CLASS_NAME;
 
     private CheckBox vibrate;
-    private CheckBox stayAwake;
+    //private CheckBox stayAwake;
 
     public void SettingsActivity() {
         CLASS_NAME = getClass().getName();
